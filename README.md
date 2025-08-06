@@ -1,4 +1,4 @@
-# Bioengineering_Graduation_Project
+# Acinetobacter_baumannii_analysis
 My research focus on genome analysis from raw data, my related work is downloaded sequences and performed the bioinformatics analysis. My data collected from data of 11 *Acinetobacter baumanii* strains were isolated from Phu Tho Hospital, Viet Nam. The project accession number is PRJEB43552.
 ![image](https://github.com/user-attachments/assets/875be46e-3b47-4be4-bff4-faf9147b21dc)
 
